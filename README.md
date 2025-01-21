@@ -1,4 +1,7 @@
-## ✨ Programming Student
+## ✨ Contributing To Entropy Since 1982 ✨
+## ✨ 80% Entertainment by Volume ✨
+## 🖥️ Programming Student 📖
+## 🐩 Cynophile 🐩
 
 <!--
 **LAprilW/laprilw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
